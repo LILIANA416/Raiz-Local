@@ -37,7 +37,15 @@ Para el desarrollo de Raíz Local se utilizan las siguientes tecnologías:
 
 **Cómo descargar el repositorio.**
 
-
+Para obtener el código fuente de Raíz Local desde GitHub, sigue estos pasos:
+1. Ingresa al repositorio de Raíz Local en GitHub.
+2. Haz clic en el botón Code.
+3. Selecciona la opción Download ZIP para descargar el proyecto comprimido.
+4. Una vez finalizada la descarga, localiza el archivo ZIP en tu computadora.
+5. Haz clic derecho sobre el archivo y selecciona Extraer todo.
+6. Elige la ubicación donde deseas guardar la carpeta del proyecto.
+7. Abre la carpeta extraída con Visual Studio Code.
+Después de descargar el proyecto, configura las variables de entorno creando el archivo .env a partir de .env.example y continúa con los pasos de instalación y ejecución de Docker.
 
 **Configurar las variables de entorno.**
 
